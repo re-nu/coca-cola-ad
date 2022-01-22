@@ -1,0 +1,15 @@
+.container{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxqzFd8plhIDiVeRTfFiQ31ztPCbyFgKYVF9DPlScJVgp56mu9__67u4RjP4uGfgUJjY&usqp=CAU);
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: auto;
+}
+p{
+    font-size: 30px;
+    margin: auto;
+    color: white;
+    font-weight: 800;
+    transition: all 4s;
+    transform: scaleX(1.02);
+    padding: 5px;
+}
